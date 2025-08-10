@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+torch
+torchvision
+matplotlib
+numpy
+PyYAML
+requests
+scipy
+psutil
+py-cpuinfo
+pandas
+ultralytics-thop
