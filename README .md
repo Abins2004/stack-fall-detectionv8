@@ -34,7 +34,7 @@ fall-safety-vision/
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/fall-safety-vision.git
+   git clone https://github.com/<Abins2004>/fall-safety-vision.git
    cd fall-safety-vision
    ```
 
