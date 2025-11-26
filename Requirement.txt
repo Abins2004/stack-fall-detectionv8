@@ -1,6 +1,6 @@
 ultralytics
 opencv-python
-torch
+Pytorch
 torchvision
 matplotlib
 numpy
